@@ -1,2 +1,2 @@
 # Menu-streaming
- Página inicial
+ Página inicial para um serviço de streaming
